@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @StevenPecoraro
+- 👀 I’m interested in automating my life
+- 🌱 I’m currently learning C++, Java, and Python for Krpc.
+- ⚡ Fun fact: I am an automation engineer with a bacelors in electrical engineering.
